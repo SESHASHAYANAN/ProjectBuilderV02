@@ -4,7 +4,7 @@
   
   <!-- Main header and description -->
   <div style="text-align: center; margin-bottom: 2rem;">
-    <h1>ORCA - GitHub Exploration &amp; Development Assistant</h1>
+    <h1>ORCA - Gru.ai and Trae Exploration &amp; Development Assistant</h1>
     <p style="font-size: 1.1rem; max-width: 800px; margin: auto;">
       Intelligent AI-powered development platform integrating Gru.ai and Trae's tools for seamless code exploration, analysis, generation, and deployment.
     </p>
